@@ -1,0 +1,13 @@
+tipo:Extra:14500:300.0
+tipo:Ethanol:8000:100.0
+tipo:Corriente:10000:600.0
+tipo:Diesel:19000:100.0
+surtidor:Cristian:Extra:0.0:Ethanol:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Carlos:Extra:0.0:Ethanol:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Adalberto:Extra:0.0:Ethanol:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Samir:Extra:0.0:Ethanol:0.0:Corriente:0.0:Diesel:0.0
+empleado:Cristian:0
+empleado:Samir:0
+empleado:Alvaro:0
+empleado:Carlos:0
+empleado:Adalberto:0
